@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth2-grant-client/auth2-grant-client.iml" filepath="$PROJECT_DIR$/auth2-grant-client/auth2-grant-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth2-server/auth2-server.iml" filepath="$PROJECT_DIR$/auth2-server/auth2-server.iml" />
+    </modules>
+  </component>
+</project>
